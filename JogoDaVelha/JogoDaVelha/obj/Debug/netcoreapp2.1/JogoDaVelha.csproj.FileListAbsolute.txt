@@ -1,0 +1,10 @@
+D:\MPVen-PC\Documents\programaçao\C#\JogoDaVelha\JogoDaVelha\bin\Debug\netcoreapp2.1\JogoDaVelha.deps.json
+D:\MPVen-PC\Documents\programaçao\C#\JogoDaVelha\JogoDaVelha\bin\Debug\netcoreapp2.1\JogoDaVelha.runtimeconfig.json
+D:\MPVen-PC\Documents\programaçao\C#\JogoDaVelha\JogoDaVelha\bin\Debug\netcoreapp2.1\JogoDaVelha.runtimeconfig.dev.json
+D:\MPVen-PC\Documents\programaçao\C#\JogoDaVelha\JogoDaVelha\bin\Debug\netcoreapp2.1\JogoDaVelha.dll
+D:\MPVen-PC\Documents\programaçao\C#\JogoDaVelha\JogoDaVelha\bin\Debug\netcoreapp2.1\JogoDaVelha.pdb
+D:\MPVen-PC\Documents\programaçao\C#\JogoDaVelha\JogoDaVelha\obj\Debug\netcoreapp2.1\JogoDaVelha.csprojAssemblyReference.cache
+D:\MPVen-PC\Documents\programaçao\C#\JogoDaVelha\JogoDaVelha\obj\Debug\netcoreapp2.1\JogoDaVelha.AssemblyInfoInputs.cache
+D:\MPVen-PC\Documents\programaçao\C#\JogoDaVelha\JogoDaVelha\obj\Debug\netcoreapp2.1\JogoDaVelha.AssemblyInfo.cs
+D:\MPVen-PC\Documents\programaçao\C#\JogoDaVelha\JogoDaVelha\obj\Debug\netcoreapp2.1\JogoDaVelha.dll
+D:\MPVen-PC\Documents\programaçao\C#\JogoDaVelha\JogoDaVelha\obj\Debug\netcoreapp2.1\JogoDaVelha.pdb
